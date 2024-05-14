@@ -1,0 +1,31 @@
+@media screen and (max-width:600px) {
+    .linked{
+        text-align: center;
+        font-size: 15px;
+        background-color: rgba(255, 166, 0, 0.456);
+        border-radius: 20px;
+        word-spacing: 1.5cm;
+    
+    }
+    
+    a{
+        text-decoration: none;
+    
+    }
+    
+    a:hover{
+        font-size: 17px;
+    }
+
+    .content{
+        font-size: 50PX;
+    }
+    .social{
+        text-align: left;
+    margin-top: 0.8cm;
+    }
+
+
+
+}
+
